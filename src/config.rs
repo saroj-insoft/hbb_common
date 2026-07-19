@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["server.ez2desk.com"];
-pub const RS_PUB_KEY: &str = "+1QAp4qxhAXkkJ7xmnsvrljA0p6vrrNAiZl9Jwq1r+Q=";
+pub const RS_PUB_KEY: &str = "uu8hCrzO3CM9ik42qVpErd51crUnlGHMRWByyNOQJGs=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
